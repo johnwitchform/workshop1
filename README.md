@@ -1,3 +1,18 @@
+간단 소개 (Brief Introduction - 3 sentences):
+본 문서는 Witchform의 모든 직원이 함께 참여하고 개선해나가는 협력 기반의 문서입니다. 
+아이디어 발굴부터 실행까지 모든 단계에서 전사 차원의 피드백과 의견이 권장됩니다.
+각 분야별 심화 문서는 별도로 준비되어 있으며, 본 문서는 전체적인 맥락을 이해하기 위한 기초 자료입니다.
+상세 개요 (Comprehensive Overview):
+본 Workshop 문서는 Witchform 전 직원의 참여와 협력을 통해 지속적으로 발전하는 살아있는 문서입니다. 
+문제 인식과 아이디어 발굴에서부터 최적화, 운영, 그리고 최종 실행에 이르는 모든 단계에서 
+다양한 직급과 부서의 의견이 통합되어 조직 전체의 지혜를 모으는 과정입니다.
+참여 단계 (Stages of Involvement):
+- 아이디어 발굴 (Ideation)
+- 문제 파악 (Problem-Identifying)
+- 최적화 (Optimization)
+- 운영 (Operation)
+- 실행 (Execution)
+
 # workshop1
 
 # WitchForm: 월 매출 $100만 달성 플레이북
